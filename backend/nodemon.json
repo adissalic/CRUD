@@ -1,9 +1,0 @@
-{
-    "env":{
-        "DB_USER": "adisalicphotography",
-        "DB_PASSWORD": "Tis0z5gtVuReYMcC",
-        "DB_NAME": "mern",
-        "GOOGLE_API_KEY": "AIzaSyCVHavRJSM1laJz-1XVJ93-IliSBbIWR1E",
-        "JWT_KEY": "supersecret_dont_share"
-    }
-}
